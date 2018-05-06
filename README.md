@@ -2,5 +2,5 @@
 
 * Polish Jupyter website:
   * http://jupyter.pl/
-* Redirects to Jupyter website:
+* Based on main Jupyter website:
   * http://jupyter.org/
